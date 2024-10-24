@@ -1,0 +1,168 @@
+ORIGINAL
+
+DON DANTESRL
+
+FACTURA
+
+COD. 01
+
+Punto de Venta: 00003
+
+Comp. Nro: 00005285
+
+Razón Social: DON DANTESR L
+
+Fecha de Emisión: 02/06/2022
+
+Domicilio Comercial: Av.Rodriguez Durañona 2222 - Salta, Salta
+
+CUIT: 30654303254
+
+Ingresos Brutos: 917-622880-5
+
+Condición frente al IVA:
+
+IVA Responsable Inscripto
+
+Fecha de Inicio de Actividades:
+
+18/08/1992
+
+Período Facturado Desde:
+
+02/06/2022
+
+Hasta: 02/06/2022
+
+Fecha de Vto. para el pago: 02/06/2022
+
+CUIT:
+
+30690650483
+
+Apellido y Nombre / Razón Social: AGENOR S A
+
+Condición frente al IVA:
+
+IVA Responsable Inscripto
+
+Domicilio Comercial: Calle Lateral Este 660 Dpto:A - Salta, Salta
+
+Condición de venta:
+
+Contado
+
+Código
+
+Producto / Servicio
+
+Cantidad
+
+U. medida
+
+Precio Unit.
+
+% Bonif
+
+Subtotal
+
+AUS
+
+Subtotal IVA
+
+001
+
+SERVICIO DE BASCULA
+
+2,00 unidades
+
+700,00
+
+0,00
+
+1400,00 21%
+
+1694,00
+
+MES DE MAYO DE 2.022
+
+SERVICIO DE BASCULA
+
+002
+
+4,00 unidades
+
+900,00
+
+0,00
+
+3600,00 21%
+
+4356,00
+
+MES DE MAYO DE 2.022
+
+Importe Otros Tributos: $
+
+0,00
+
+5000,00
+
+Importe Neto Gravado:
+
+IVA 27%
+
+0,00
+
+IVA 21%:
+
+1050,00
+
+IVA 10.5%:
+
+0,00
+
+IVA 5%:
+
+0,00
+
+IVA 2.5%:
+
+0,00
+
+IVA 0%:
+
+0,00
+
+Importe Otros Tributos:
+
+0,00
+
+Importe Total: $
+
+6050,00
+
+Pág. 1/1
+
+.
+
+CAE N*: 72224297569080
+
+2
+
+YU
+
+Fecha de Vto. de CAE: 12/06/2022
+
+ce
+
+E
+
+Comprobante Autorizado
+
+=
+
+Esta Administración Federal no se responsabiliza por los datos ingresados en el detalle de la operación
+
+Pa,
+
